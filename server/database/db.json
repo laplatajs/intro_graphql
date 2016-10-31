@@ -1,0 +1,68 @@
+{
+  "vehiculos": [
+    {
+      "_id": "197426f3-f21f-4003-8590-45b6a2a20742",
+      "marca": "RENAULT",
+      "modelo": "Megane",
+      "peso": 1164,
+      "anio": 2014,
+      "combustible": "NAFTA"
+    },
+    {
+      "_id": "efdbc9a4-dbed-4145-837c-aed56d8a0048",
+      "marca": "PEUGEOT",
+      "modelo": "207 Compact",
+      "peso": 1081,
+      "anio": 2015,
+      "combustible": "NAFTA"
+    },
+    {
+      "_id": "09a39067-aa27-4b8d-94ca-c696227234c5",
+      "marca": "FIAT",
+      "modelo": "600",
+      "peso": 600,
+      "anio": 1982,
+      "combustible": "NAFTA"
+    },
+    {
+      "_id": "f6aa266f-5da1-43a6-a9ec-62994f43c369",
+      "peso": 1234,
+      "marca": "RENAULT",
+      "modelo": "Sandero",
+      "anio": 2016,
+      "combustible": "NAFTA"
+    },
+    {
+      "_id": "f6aa266f-5da2-43a6-a9ec-62994f43c369",
+      "peso": 1234,
+      "marca": "BMX",
+      "modelo": "3400",
+      "anio": 2016,
+      "rodado": 26
+    },
+    {
+      "peso": 25,
+      "marca": "BMX",
+      "modelo": "X2",
+      "anio": 2016,
+      "rodado": 27,
+      "_id": "f1085eef-fad8-474e-90c9-6d609ad61bf0"
+    },
+    {
+      "peso": 16,
+      "marca": "BMX",
+      "modelo": "d2012",
+      "anio": 2012,
+      "rodado": 24,
+      "_id": "3196eb97-d14a-439f-8391-04be22f97feb"
+    },
+    {
+      "peso": 1300,
+      "marca": "PEUGEOT",
+      "modelo": "208",
+      "anio": 2015,
+      "combustible": "NAFTA",
+      "_id": "02719bf9-d57d-4f72-b571-29e2a551edbd"
+    }
+  ]
+}

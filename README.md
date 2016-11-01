@@ -8,7 +8,7 @@
 2. `cd <este_repo>`
 3. `npm install`
 
-#### 1. Ejemplo b·sico
+#### 1. Ejemplo b√°sico
 __Schema + query + data + execution en un solo file__. Ver el fuente: `server/index-basico.js`.
 1. Ejecutar: `node server/index-basico.js`. Los resultados por consola.
 
@@ -26,12 +26,12 @@ Si se quiere usar otro server REST para probar (no cerrar el server en localhost
   3. Ir a: `http://localhost:4000/graphql` para ver el GraphiQL y hacer pruebas.
 
 
-Probar adem·s un "cliente" que utiliza fetch para ejecutar consultas sobre el servidor (localhost:4000)
+Probar adem√°s un "cliente" que utiliza fetch para ejecutar consultas sobre el servidor (localhost:4000)
 1. Ejecutar: `node client/index.js` y ver los resultados en consola.
 
 #### Ejemplos de query:
 
-1. _Vehiculos (inline fragments)_
+Vehiculos (inline fragments)
 ```
 {
   vehiculos {
@@ -47,7 +47,7 @@ Probar adem·s un "cliente" que utiliza fetch para ejecutar consultas sobre el se
 }
 ```
 
-2. Par·metros + listado + varios
+Par√°metros + listado + varios
 ```
 query todas($id: ID!) {
   vehiculos {
